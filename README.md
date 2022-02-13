@@ -1,12 +1,10 @@
 ## Info
+This is a simple POC project, which shows a few cheeses from server. Customers can select a cheese and system will calculate the total price.
 
 
 ## How to run this
 You want to start the app
 
-cd ./app && yarn && yarn start
+yarn && yarn start
 
 
-## The test
-
-You'll start with the app not showing any data 
